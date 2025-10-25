@@ -29,7 +29,7 @@ __author__ = 'HybriDFEM Team'
 from .structure_2d import Structure_2D
 from .structure_block import Structure_block
 from .structure_fem import Structure_FEM
-from .hybrid import Hybrid
+from .structure_hybrid import Hybrid
 
 # High-level API (builders)
 from .build_blocks import Build_blocks
